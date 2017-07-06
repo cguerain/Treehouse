@@ -1,0 +1,14 @@
+1 checkout branche you want to pull the changes into.
+2 merge changes ....
+merge changes -> (rubymine)VCS - git - merge changes
+(master to branche (remote/origin/master Squash commit)
+merge (select shizle and accept theirs or yuors whatever has been changed)
+[local change-tab] DO check if the work you did is not being overwrited.
+select all files if ok, and commit them to local....(so master(changes) is also in (your/our/her branche)
+3 master to master
+change role(branche) in lower right screen. (Local....change role(branche) and checkout)
+sycnh your remote with your local SVC GIT pull
+pause 
+----------
+http://nvie.com/posts/a-successful-git-branching-model/
+video flow
